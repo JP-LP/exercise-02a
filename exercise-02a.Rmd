@@ -20,7 +20,7 @@ b <- seq(100,200, by=20)
 If I type cmd + alt + I this happens: :)
 
 ```{r}
-x <- "a chunk of space to type code opens up"
+x <- "a chunk of space to type code opens up!"
 ```
 
 
