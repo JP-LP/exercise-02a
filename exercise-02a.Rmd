@@ -1,0 +1,26 @@
+---
+title: "notes"
+output: html_document
+date: "2026-01-20"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown containing notes from class
+
+```{r}
+a <- seq(1,100, by=0.2)
+b <- seq(100,200, by=20)
+```
+
+If I type cmd + alt + I this happens: :)
+
+```{r}
+x <- "a chunk of space to type code opens up"
+```
+
+
